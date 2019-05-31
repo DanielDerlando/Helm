@@ -8,6 +8,6 @@ entries:
     digest: 6fedd17a4356606444ebb9e8de3c2ea75fc4e7f325a6e228dbf4e88960370624
     name: hello-icp-copy
     urls:
-    - https://danielderlando.github.io/Helm/hello-icp-copy/hello-icp-copy-0.1.0.tgz
+    - https://danielderlando.github.io/Helm/hello-icp-copy-0.1.0.tgz
     version: 0.1.0
 generated: 2019-05-31T15:32:10.676367406-03:00
