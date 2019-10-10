@@ -1,13 +1,23 @@
 apiVersion: v1
 entries:
+  demoicp:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-10-10T15:52:51.149059597-03:00
+    description: A Helm chart for Kubernetes
+    digest: a87d471ac4370042019a25cf45fa3fbdb1d548d766eeea15768bcddd2369b3c9
+    name: demoicp
+    urls:
+    - demoicp-0.1.0.tgz
+    version: 0.1.0
   hello-icp-copy:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-31T15:32:10.676871085-03:00
+    created: 2019-10-10T15:52:51.149561901-03:00
     description: A Helm chart for Kubernetes
-    digest: 6fedd17a4356606444ebb9e8de3c2ea75fc4e7f325a6e228dbf4e88960370624
+    digest: ff645a55c51600a050c02c93b52de78f83912bc070f981fc37e70341249cfce1
     name: hello-icp-copy
     urls:
-    - https://danielderlando.github.io/Helm/repo/stable/hello-icp-copy-0.1.0.tgz
+    - hello-icp-copy-0.1.0.tgz
     version: 0.1.0
-generated: 2019-05-31T15:32:10.676367406-03:00
+generated: 2019-10-10T15:52:51.146060947-03:00
